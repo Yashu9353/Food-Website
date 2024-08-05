@@ -45,10 +45,10 @@ How to Run the Project
 
 >Clone the repository:
 
-git clone https://github.com/Yashu9353/Food-Website.git
-cd Food-Website
-Install dependencies:
+>git clone https://github.com/Yashu9353/Food-Website.git
+>cd Food-Website
 
+Install dependencies:
 open V S Code:
 >open New Terminal:
 >cd Backend
